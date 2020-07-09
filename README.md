@@ -1,2 +1,2 @@
 # contadores
-My persona counts
+My personal counts
