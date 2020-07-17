@@ -47,4 +47,4 @@ function createCountDown(fecha,numero,mensaje) {
 
 createCountUp("Jul 12, 2020 10:00:00",1);
 createCountUp("Jun 15, 2020 09:00:00",2);
-createCountDown("Jan 15, 2021 09:00:00",3,"Ya acabo la residencia :D");
+createCountDown("Dec 15, 2020 09:00:00",3,"Ya acabo la residencia :D");
