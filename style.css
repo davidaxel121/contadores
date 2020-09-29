@@ -1,4 +1,14 @@
-.row {
+html, body{
+	min-width: 100vh;
+	min-height: 100vh;
+}
+
+.content-hero{
+	min-height: 80vh;
+	border: 1px solid red;
+}
+
+.row-box {
   border-radius: 25px;
   background: #f8f9fa;
   box-shadow: 12px 12px 20px #9c9c9c, -12px -12px 20px #ffffff;
